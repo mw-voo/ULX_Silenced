@@ -11,7 +11,8 @@ Place in GarrysMod\garrysmod\addons\
 
 Note(s): 
 ==============
-
+Type !silenced in chat to quickly see a list
+Type ulx silenced in console to see the list from console.
 
 
 
